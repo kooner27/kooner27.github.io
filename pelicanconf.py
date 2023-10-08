@@ -1,16 +1,16 @@
 AUTHOR = 'Danger Doggo'
 SITENAME = 'My Cool Site'
-SITEURL = ''
+SITEURL = 'https://kooner27.github.io/'
 
 PATH = 'content'
 
 TIMEZONE = 'America/Edmonton'
 
 DEFAULT_LANG = 'en'
-
+THEME = 'templates/mytheme'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
+# CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
